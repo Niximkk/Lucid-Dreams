@@ -1,6 +1,6 @@
 A simple text-based game.
 
-`git clone https://github.com/Niximkk/lucid-dreams`
+`git clone https://github.com/Niximkk/Lucid-Dreams`
 
 `cd lucid-dreams`
 
