@@ -1,3 +1,4 @@
+## ⚠ Discontinued
 A simple text-based game.
 
 `git clone https://github.com/Niximkk/Lucid-Dreams`
